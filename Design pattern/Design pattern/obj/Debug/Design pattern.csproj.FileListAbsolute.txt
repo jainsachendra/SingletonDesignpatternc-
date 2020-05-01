@@ -1,0 +1,6 @@
+C:\Users\91830\source\repos\Design pattern\Design pattern\bin\Debug\Design pattern.exe.config
+C:\Users\91830\source\repos\Design pattern\Design pattern\bin\Debug\Design pattern.exe
+C:\Users\91830\source\repos\Design pattern\Design pattern\bin\Debug\Design pattern.pdb
+C:\Users\91830\source\repos\Design pattern\Design pattern\obj\Debug\Design pattern.csprojAssemblyReference.cache
+C:\Users\91830\source\repos\Design pattern\Design pattern\obj\Debug\Design pattern.exe
+C:\Users\91830\source\repos\Design pattern\Design pattern\obj\Debug\Design pattern.pdb
